@@ -1,0 +1,7 @@
+4
+dense
+linear 256 10
+relu
+linear 10 6
+bestModel/W.bin
+bestModel/B.bin
